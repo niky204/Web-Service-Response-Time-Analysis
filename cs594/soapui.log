@@ -1,0 +1,38 @@
+2016-02-24 18:03:59,708 WARN  [SoapUI] Missing folder [C:\Users\chintan\workspace\DynamicClient\.\ext] for external libraries
+2016-02-24 18:04:00,109 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\chintan\soapui-settings.xml]
+2016-02-24 18:04:01,515 INFO  [SchemaUtils] Added default schema from file:/C:/apache-tomcat-7.0.67/lib/soapui-4.0.1.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2016-02-24 18:04:01,593 INFO  [SchemaUtils] Added default schema from file:/C:/apache-tomcat-7.0.67/lib/soapui-4.0.1.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2016-02-24 18:04:01,593 INFO  [SchemaUtils] Added default schema from file:/C:/apache-tomcat-7.0.67/lib/soapui-4.0.1.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2016-02-24 18:04:01,593 INFO  [SchemaUtils] Added default schema from file:/C:/apache-tomcat-7.0.67/lib/soapui-4.0.1.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2016-02-24 18:04:01,593 INFO  [SchemaUtils] Added default schema from file:/C:/apache-tomcat-7.0.67/lib/soapui-4.0.1.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2016-02-24 18:04:01,593 INFO  [SchemaUtils] Added default schema from file:/C:/apache-tomcat-7.0.67/lib/soapui-4.0.1.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2016-02-24 18:04:01,608 INFO  [SchemaUtils] Added default schema from file:/C:/apache-tomcat-7.0.67/lib/soapui-4.0.1.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2016-02-24 18:04:01,608 INFO  [SchemaUtils] Added default schema from file:/C:/apache-tomcat-7.0.67/lib/soapui-4.0.1.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2016-02-24 18:04:01,608 INFO  [SchemaUtils] Added default schema from file:/C:/apache-tomcat-7.0.67/lib/soapui-4.0.1.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2016-02-24 18:04:01,608 INFO  [SchemaUtils] Added default schema from file:/C:/apache-tomcat-7.0.67/lib/soapui-4.0.1.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2016-02-24 18:04:02,108 INFO  [SchemaUtils] Loading schema types from [http://wsf.cdyne.com/WeatherWS/Weather.asmx?WSDL]
+2016-02-24 18:04:02,108 INFO  [SchemaUtils] Getting schema http://wsf.cdyne.com/WeatherWS/Weather.asmx?WSDL
+2016-02-24 18:04:02,296 INFO  [WsdlImporter] Finding importer for {http://ws.cdyne.com/WeatherWS/}WeatherSoap12
+2016-02-24 18:04:02,312 INFO  [WsdlImporter] Importing binding {http://ws.cdyne.com/WeatherWS/}WeatherSoap12
+2016-02-24 18:04:02,343 INFO  [Soap12HttpBindingImporter] importing endpoint http://wsf.cdyne.com/WeatherWS/Weather.asmx
+2016-02-24 18:04:02,374 INFO  [Soap12HttpBindingImporter] importing operation GetCityForecastByZIP
+2016-02-24 18:04:02,390 INFO  [Soap12HttpBindingImporter] importing operation GetCityWeatherByZIP
+2016-02-24 18:04:02,390 INFO  [Soap12HttpBindingImporter] importing operation GetWeatherInformation
+2016-02-24 18:04:02,452 INFO  [WsdlImporter] Finding importer for {http://ws.cdyne.com/WeatherWS/}WeatherSoap
+2016-02-24 18:04:02,464 INFO  [WsdlImporter] Importing binding {http://ws.cdyne.com/WeatherWS/}WeatherSoap
+2016-02-24 18:04:02,465 INFO  [Soap11HttpBindingImporter] importing endpoint http://wsf.cdyne.com/WeatherWS/Weather.asmx
+2016-02-24 18:04:02,465 INFO  [Soap11HttpBindingImporter] importing operation GetCityForecastByZIP
+2016-02-24 18:04:02,465 INFO  [Soap11HttpBindingImporter] importing operation GetCityWeatherByZIP
+2016-02-24 18:04:02,465 INFO  [Soap11HttpBindingImporter] importing operation GetWeatherInformation
+2016-02-24 18:04:02,465 INFO  [WsdlImporter] Finding importer for {http://ws.cdyne.com/WeatherWS/}WeatherHttpPost
+2016-02-24 18:04:02,465 INFO  [WsdlImporter] Missing importer for {http://ws.cdyne.com/WeatherWS/}WeatherHttpPost
+2016-02-24 18:04:02,465 INFO  [WsdlImporter] Finding importer for {http://ws.cdyne.com/WeatherWS/}WeatherHttpGet
+2016-02-24 18:04:02,465 INFO  [WsdlImporter] Missing importer for {http://ws.cdyne.com/WeatherWS/}WeatherHttpGet
+2016-02-24 18:04:02,465 INFO  [WsdlImporter] Finding importer for {http://ws.cdyne.com/WeatherWS/}WeatherHttpPost
+2016-02-24 18:04:02,465 INFO  [WsdlImporter] Missing importer for {http://ws.cdyne.com/WeatherWS/}WeatherHttpPost
+2016-02-24 18:04:02,465 INFO  [WsdlImporter] Finding importer for {http://ws.cdyne.com/WeatherWS/}We2016-02-25 13:21:48,323 INFO  [DefaultSoapUICore] Reloading updated settings file
+2016-02-25 13:21:48,485 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\chintan\soapui-settings.xml]
+
+2016-02-24 18:04:02,591 INFO  [SoapInput] No documentation found for input ZIP
+2016-02-25 13:21:49,540 INFO  [DefaultSoapUICore] Reloading updated settings file
+2016-02-25 13:21:49,748 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\chintan\soapui-settings.xml]
